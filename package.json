@@ -1,0 +1,23 @@
+{
+  "name": "mev-bot-solana",
+  "version": "1.0.0",
+  "description": "Welcome to the MEV Bot Solana repository! This project aims to develop a bot that takes advantage of MEV (Miner Extractable Value) opportunities on the Solana blockchain.",
+  "homepage": "https://github.com/MeMikko/mev-bot-solana#readme",
+  "bugs": {
+    "url": "https://github.com/MeMikko/mev-bot-solana/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeMikko/mev-bot-solana.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
